@@ -1,0 +1,4 @@
+#Fri Aug 05 17:56:04 UTC 2022
+base.0=D\:\\Project\\02_WalletConnect\\03_proj\\wallet_connect_dapp\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
